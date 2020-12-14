@@ -1,0 +1,11 @@
+.block {
+    padding-top: 9px;
+}
+.block .active {
+    background-color: #00807c !important;
+    color: #ffffff !important;
+  }
+.block .el-pagination {
+    display: flex;
+    justify-content: flex-end;
+}
